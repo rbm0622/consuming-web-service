@@ -1,0 +1,10 @@
+hello/wsdl/GetCitiesByCountry.class
+hello/wsdl/GetCitiesByCountryResponse.class
+hello/wsdl/package-info.class
+hello/wsdl/ObjectFactory.class
+hello/wsdl/GetWeather.class
+hello/ApplicationController.class
+hello/QuoteConfiguration.class
+hello/Application.class
+hello/QuoteClient.class
+hello/wsdl/GetWeatherResponse.class
